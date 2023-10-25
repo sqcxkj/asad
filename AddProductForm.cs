@@ -24,20 +24,7 @@ namespace 广告账本
 
 
 
-        //private class ProductPrice
-        //{
-        //    public int _id { get; set; }
-        //    public string ProductType { get; set; }
-        //    public string process { get; set; }
-        //    public double UnitPrice { get; set; }
-        //    public double UnitPricet { get; set; }
-        //    public double UnitPrices { get; set; }
-        //    public string Unit { get; set; }
-        //    public double lowprice { get; set; }
-        //    public string JijiaFangshi { get; set; }
-        //    public string lwunit { get; set; }
-
-        //}
+        
         public class ProductPrice
         {
             public int ID { get; set; }
